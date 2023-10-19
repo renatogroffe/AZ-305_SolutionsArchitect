@@ -10,17 +10,17 @@ Playlist com as lives no canal **Coding Night**:
 
 ### Conteúdos gerais
 
-| **Assunto** | 
-|-------------|
-| Visão geral sobre a prova e os serviços de dados do Azure (bancos relacionais e NoSQL) -> [**Live 1**](https://www.youtube.com/watch?v=oj7zL85R6yI) |
+| **Assunto** | **Documentação** | **YouTube** |
+|-------------|------------------|-------------|
+| Visão geral sobre a prova e os serviços de dados do Azure (bancos relacionais e NoSQL) | - | [**Live 1**](https://www.youtube.com/watch?v=oj7zL85R6yI) |
 
 ---
 
 ### Design data storage solutions
 
-| **Assunto** | 
-|-------------|
-| Design a data storage solution for non-relational data (Azure Storage - Blobs, Disks, Segurança...) -> [**Microsoft Learn**](https://learn.microsoft.com/en-us/training/modules/design-data-storage-solution-for-non-relational-data/) :: [**Live 3**](https://www.youtube.com/watch?v=b87W4PFimNo) :: [**Live 4**](https://www.youtube.com/watch?v=Kk_Y1oEMLs4) :: [**Live 5**](https://www.youtube.com/watch?v=dDe8iN1Qrlc)|
+| **Assunto** | **Documentação** | **YouTube** |
+|-------------|------------------|-------------|
+| Design a data storage solution for non-relational data (Azure Storage - Blobs, Disks, Segurança...) | [**Microsoft Learn**](https://learn.microsoft.com/en-us/training/modules/design-data-storage-solution-for-non-relational-data/) | [**Live 3**](https://www.youtube.com/watch?v=b87W4PFimNo) :: [**Live 4**](https://www.youtube.com/watch?v=Kk_Y1oEMLs4) :: [**Live 5**](https://www.youtube.com/watch?v=dDe8iN1Qrlc)|
 
 ### Design infrastructure solutions
 
