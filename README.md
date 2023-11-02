@@ -16,15 +16,23 @@ Playlist com as lives no canal **Coding Night**:
 
 ---
 
+### Design identity, governance, and monitor solutions
+
+| **Assunto** | **Documentação** | **YouTube** |
+|-------------|------------------|-------------|
+| Design a solution to log and monitor Azure resources (Azure Monitor, Application Insights, Log Analytics...) | [**Microsoft Learn**](https://learn.microsoft.com/en-us/training/modules/design-solution-to-log-monitor-azure-resources/) | [**Live 9**](https://www.youtube.com/watch?v=Bomq_Vvm2UI) )|
+
+---
+
 ### Design data storage solutions
 
 | **Assunto** | **Documentação** | **YouTube** |
 |-------------|------------------|-------------|
 | Design a data storage solution for non-relational data (Azure Storage - Blobs, Disks, Segurança...) | [**Microsoft Learn**](https://learn.microsoft.com/en-us/training/modules/design-data-storage-solution-for-non-relational-data/) | [**Live 3**](https://www.youtube.com/watch?v=b87W4PFimNo) :: [**Live 4**](https://www.youtube.com/watch?v=Kk_Y1oEMLs4) :: [**Live 5**](https://www.youtube.com/watch?v=dDe8iN1Qrlc)|
 
-### Design infrastructure solutions
-
 ---
+
+### Design infrastructure solutions
 
 | **Assunto** | **Documentação** | **YouTube** |
 |-------------|------------------|-------------|
