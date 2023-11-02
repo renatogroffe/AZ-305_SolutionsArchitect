@@ -20,7 +20,7 @@ Playlist com as lives no canal **Coding Night**:
 
 | **Assunto** | **Documentação** | **YouTube** |
 |-------------|------------------|-------------|
-| Design a solution to log and monitor Azure resources (Azure Monitor, Application Insights, Log Analytics...) | [**Microsoft Learn**](https://learn.microsoft.com/en-us/training/modules/design-solution-to-log-monitor-azure-resources/) | [**Live 9**](https://www.youtube.com/watch?v=Bomq_Vvm2UI) )|
+| Design a solution to log and monitor Azure resources (Azure Monitor, Application Insights, Log Analytics...) | [**Microsoft Learn**](https://learn.microsoft.com/en-us/training/modules/design-solution-to-log-monitor-azure-resources/) | [**Live 9**](https://www.youtube.com/watch?v=Bomq_Vvm2UI) |
 
 ---
 
