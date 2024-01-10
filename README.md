@@ -30,6 +30,7 @@ Playlist com as lives no canal **Coding Night**:
 | **Assunto** | **Documentação** | **YouTube** |
 |-------------|------------------|-------------|
 | Design a data storage solution for non-relational data (Azure Storage - Blobs, Disks, Segurança...) | [**Microsoft Learn**](https://learn.microsoft.com/en-us/training/modules/design-data-storage-solution-for-non-relational-data/) | [**Live 3**](https://www.youtube.com/watch?v=b87W4PFimNo) :: [**Live 4**](https://www.youtube.com/watch?v=Kk_Y1oEMLs4) :: [**Live 5**](https://www.youtube.com/watch?v=dDe8iN1Qrlc)|
+| Design data integration (Azure Data Factory...) | [**Microsoft Learn**](https://learn.microsoft.com/en-us/training/modules/design-data-integration/) | [**Live 14**](https://www.youtube.com/watch?v=O-fvy_MnQ9c) |
 
 ---
 
