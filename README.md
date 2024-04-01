@@ -42,3 +42,11 @@ Playlist com as lives no canal **Coding Night**:
 | Design an Azure compute solution (Azure App Service, Azure Functions, Azure Batch, Azure Logic Apps, Azure Kubernetes Service, Azure Container Apps, Service Fabric) | [**Microsoft Learn**](https://learn.microsoft.com/en-us/training/modules/design-compute-solution/) | [**Live 2**](https://www.youtube.com/watch?v=_YB-tw52cJI) |
 | Design an application architecture (Azure Queue Storage, Azure Service Bus, Azure Event Hubs, Azure Event Grid, Azure Redis Cache, Azure API Management, ARM, Bicep, Azure App Configuration) | [**Microsoft Learn**](https://learn.microsoft.com/en-us/training/modules/design-application-architecture/) | [**Live 6**](https://www.youtube.com/watch?v=807J7Qth-WM) :: [**Live 10**](https://www.youtube.com/watch?v=KATsXh0zkGY) :: [**Live 12**](https://www.youtube.com/watch?v=RPFZw2bgEi8) |
 | Design network solutions (Virtual Networks, Hub-spoke, Peering, NAT, Azure ExpressRoute, Azure Virtual WAN, Azure Load Balancer, Traffic Manager, Application Gateway, Azure Front Door, Azure Content Delivery Network, Azure DDoS Protection, Azure Private Link, Azure Firewall, Azure Web Application Firewall, Azure Bastion) | [**Microsoft Learn**](https://learn.microsoft.com/en-us/training/modules/design-network-solutions/) | [**Live 7**](https://www.youtube.com/watch?v=2FhcqDUKxRM) :: [**Live 8**](https://www.youtube.com/watch?v=kDdZShv0QdM) :: [**Live 11**](https://www.youtube.com/watch?v=f8SwiC9fam4) |
+
+---
+
+### Build great solutions with the Microsoft Azure Well-Architected Framework
+
+| **Assunto** | **Documentação** | **YouTube** |
+|-------------|------------------|-------------|
+| Introduction to the Microsoft Azure Well-Architected Framework (Pillars) | [**Microsoft Learn**](https://learn.microsoft.com/en-us/training/modules/azure-well-architected-introduction/) | [**Live 23**](https://www.youtube.com/watch?v=fOIel4OB9YM) |
