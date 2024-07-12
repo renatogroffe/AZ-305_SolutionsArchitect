@@ -49,4 +49,4 @@ Playlist com as lives no canal **Coding Night**:
 
 | **Assunto** | **Documentação** | **YouTube** |
 |-------------|------------------|-------------|
-| Introduction to the Microsoft Azure Well-Architected Framework (Pillars) | [**Microsoft Learn**](https://learn.microsoft.com/en-us/training/modules/azure-well-architected-introduction/) | [**Live 23**](https://www.youtube.com/watch?v=fOIel4OB9YM) |
+| Introduction to the Microsoft Azure Well-Architected Framework (Pillars) | [**Microsoft Learn**](https://learn.microsoft.com/en-us/training/modules/azure-well-architected-introduction/) | [**Live 23**](https://www.youtube.com/watch?v=fOIel4OB9YM) :: [**Live 24**](https://www.youtube.com/watch?v=TR29H2JanQE) |
