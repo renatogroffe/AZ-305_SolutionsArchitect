@@ -1,6 +1,8 @@
 # AZ-305_SolutionsArchitect
 Conteúdos gratuitos e série de lives sobre o exame **AZ-305 - Designing Microsoft Azure Infrastructure Solutions**.
 
+Tópicos: **Containers, Infraestrutura, Azure, Cloud, DevOps, Cybersecurity, Software Development...**
+
 Playlist com as lives no canal **Coding Night**:
 **https://www.youtube.com/playlist?list=PLgBAHVu7jSqCZ7p-TTX3GR5Pp8R0ox5gr**
 
