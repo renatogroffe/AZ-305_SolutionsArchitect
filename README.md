@@ -58,6 +58,10 @@ Playlist com as lives no canal **Coding Night**:
 
 
 
+| Microsoft Azure Well-Architected Framework - Reliability | [**Microsoft Learn**](https://learn.microsoft.com/en-us/training/modules/azure-well-architected-reliability/) | [**Live 42**](https://www.youtube.com/watch?v=Jj2csbAI-Ps) |
+
+
+
 
 
 
