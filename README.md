@@ -55,7 +55,7 @@ Playlist com as lives no canal **Coding Night**:
 | Microsoft Azure Well-Architected Framework - Cost Optimization | [**Microsoft Learn**](https://learn.microsoft.com/en-us/training/modules/azure-well-architected-cost-optimization/) | [**Live 31**](https://www.youtube.com/watch?v=OYBMn2HEQMw) :: [**Live 33**](https://www.youtube.com/watch?v=_KBY4ZcKQOo) :: [**Live 34**](https://www.youtube.com/watch?v=JZbagM4OK4k) |
 | Microsoft Azure Well-Architected Framework - Operational excellence | [**Microsoft Learn**](https://learn.microsoft.com/en-us/training/modules/azure-well-architected-operational-excellence/) | [**Live 35**](https://www.youtube.com/watch?v=R2DD6ycSlX8) :: [**Live 36**](https://www.youtube.com/watch?v=U-sK5l8cyqM) :: [**Live 37**](https://www.youtube.com/watch?v=L0uDDuVutEU) :: [**Live 38**](https://www.youtube.com/watch?v=Z6Wx9_yzREI) |
 | Microsoft Azure Well-Architected Framework - Performance efficiency | [**Microsoft Learn**](https://learn.microsoft.com/en-us/training/modules/azure-well-architected-performance-efficiency/) | [**Live 39**](https://www.youtube.com/watch?v=WV8BO-E2vQM) :: [**Live 40**](https://www.youtube.com/watch?v=ct4QREqnT7A) :: [**Live 41**](https://www.youtube.com/watch?v=laDtHwR21D0) |
-| Microsoft Azure Well-Architected Framework - Reliability | [**Microsoft Learn**](https://learn.microsoft.com/en-us/training/modules/azure-well-architected-reliability/) | [**Live 42**](https://www.youtube.com/watch?v=Jj2csbAI-Ps) |
+| Microsoft Azure Well-Architected Framework - Reliability | [**Microsoft Learn**](https://learn.microsoft.com/en-us/training/modules/azure-well-architected-reliability/) | [**Live 42**](https://www.youtube.com/watch?v=Jj2csbAI-Ps) :: [**Live 43**](https://www.youtube.com/watch?v=dJR2PfOqtW4) |
 
 
 
